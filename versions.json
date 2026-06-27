@@ -1,0 +1,20 @@
+{
+  "repo": "prologue-gallery",
+  "basePath": "/prologue-gallery",
+  "title": "Prologue — Homepage Versions",
+  "subtitle": "株式会社プロローグ コーポレートサイト 試作ギャラリー",
+  "description": "Claude と Codex が制作した複数のホームページ試作版を一覧・比較するためのショーケース。各版は v{番号}-{ツール} で識別する。",
+  "versions": [
+    {
+      "id": "v1-claude",
+      "title": "impeccable — warm editorial poster",
+      "tool": "Claude",
+      "author": "Claude (Opus 4.8)",
+      "stack": "Next.js",
+      "date": "2026-06-15",
+      "dir": "versions/v1-claude",
+      "thumb": "assets/thumbs/v1-claude.png",
+      "note": "cream × burnt orange の温かいエディトリアル・ポスター。Indeed Platinum Partner の価値訴求を中心に据えた構成。"
+    }
+  ]
+}
