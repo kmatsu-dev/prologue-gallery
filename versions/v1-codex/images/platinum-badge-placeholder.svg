@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Platinum partner placeholder badge">
+  <rect width="160" height="160" fill="#f7f8fa"/>
+  <circle cx="80" cy="80" r="62" fill="#ffffff" stroke="#a9852a" stroke-width="4"/>
+  <circle cx="80" cy="80" r="48" fill="#d7dce2" stroke="#ffffff" stroke-width="3"/>
+  <path d="M80 34l11.6 23.5 25.9 3.8-18.8 18.3 4.4 25.8L80 93.2l-23.1 12.2 4.4-25.8-18.8-18.3 25.9-3.8L80 34z" fill="#ffffff" stroke="#a9852a" stroke-width="2" stroke-linejoin="round"/>
+  <text x="80" y="126" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#061421">PLATINUM</text>
+  <text x="80" y="141" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="1.2" fill="#5f6875">PARTNER</text>
+</svg>

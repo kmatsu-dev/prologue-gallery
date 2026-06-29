@@ -15,6 +15,17 @@
       "dir": "versions/v1-claude",
       "thumb": "assets/thumbs/v1-claude.png",
       "note": "cream × burnt orange の温かいエディトリアル・ポスター。Indeed Platinum Partner の価値訴求を中心に据えた構成。"
+    },
+    {
+      "id": "v1-codex",
+      "title": "professional — deep navy analytics",
+      "tool": "Codex",
+      "author": "Codex",
+      "stack": "Vite + React",
+      "date": "2026-06-04",
+      "dir": "versions/v1-codex",
+      "thumb": "assets/thumbs/v1-codex.png",
+      "note": "Deep Navy × Professional Blue の硬質な BtoB。解析ダッシュボード風ヒーローで、表示→クリック→応募→採用単価の改善伴走を訴求。"
     }
   ]
 }

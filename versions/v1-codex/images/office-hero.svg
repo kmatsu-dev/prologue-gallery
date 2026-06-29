@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-label="TODO_REPLACE office placeholder">
+  <rect width="1600" height="1000" fill="#061421"/>
+  <g opacity=".38">
+    <path d="M240 180h1110v620H240z" fill="#102131"/>
+    <path d="M290 230h300v520H290zM640 230h300v520H640zM990 230h300v520H990z" fill="#07111c" stroke="#4a5c6b" stroke-width="3"/>
+    <path d="M240 180l210-120h900M590 180l130-120M940 180l80-120M1290 180l-90-120" fill="none" stroke="#738190" stroke-width="4"/>
+    <path d="M330 315h200M680 315h200M1030 315h200M330 460h200M680 460h200M1030 460h200M330 605h200M680 605h200M1030 605h200" stroke="#8b96a1" stroke-width="2" opacity=".6"/>
+    <path d="M190 800h1210" stroke="#9aa3ad" stroke-width="5" opacity=".35"/>
+  </g>
+  <g opacity=".25" fill="#d7dce2">
+    <rect x="410" y="735" width="120" height="26"/>
+    <rect x="760" y="735" width="120" height="26"/>
+    <rect x="1110" y="735" width="120" height="26"/>
+  </g>
+  <rect width="1600" height="1000" fill="url(#fade)"/>
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#061421"/>
+      <stop offset=".55" stop-color="#061421" stop-opacity=".78"/>
+      <stop offset="1" stop-color="#061421" stop-opacity=".24"/>
+    </linearGradient>
+  </defs>
+</svg>
